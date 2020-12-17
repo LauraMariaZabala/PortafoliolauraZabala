@@ -852,8 +852,8 @@ a:hover {
 
 .testimonial-box .comit {
   font-size: 2rem;
-  color: #0078ff;
-  background-color: #fff;
+  color: #285486;
+  background-color: rgba(174, 210, 245, 0.658);
   width: 52px;
   height: 52px;
   display: block;
@@ -885,7 +885,7 @@ a:hover {
   color: #fff;
   padding: 0 15px 5px;
   overflow: hidden;
-  background-color: #0078ff;
+  background-color: #db4d4d;
   border-radius: 4px;
 }
 
